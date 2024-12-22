@@ -11,11 +11,9 @@ for x in valid:
         flag = True
     elif x == 'don\'t()':
         flag = False
-    else: 
+    else:
         if (flag):
             numbers = re.findall(r'\d+', x)
             x, y = list(map(int, numbers))
             res += x * y
 print(res)
-            
-
