@@ -1,0 +1,25 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "python": {
+      "useSingleQuotes": true,
+      "ignore": false,
+      "editorConfig": true,
+      "tabs": true,
+      "tabWidth": 4,
+      "trailingComma": "none",
+      "arrowParens": "always",
+      "printWidth": 80,
+      "lineWidth": 80,
+      "bracketSpacing": true,
+      "spaceBeforeFunctionParen": true,
+      "requirePragma": false,
+      "useTabs": false,
+      "semi": true
+    }
+  }
+  
